@@ -17,6 +17,10 @@ To create a new file:
 4. git push -u origin main
 
 For the SSH, I will need to 
-1. open up cmd prompt as Admin and generate ssh key by command *ssh-keygen -t rsa*.
+1. open up cmd prompt as Admin and generate ssh key by command 
+''' sh
+ssh-keygen -t rsa
+'''
+
 2. Enter passphrase
 3. Copy the ssh public key to github setting.
