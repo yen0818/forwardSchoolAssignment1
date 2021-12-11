@@ -10,6 +10,12 @@ Kindly create a new repository with 2 new files(any random text files) and creat
 7. git remote add origin https://github.com/yen0818/forwardSchoolAssignment1.git
 8. git push -u origin main
 
+To create a new file:
+1. create new file locally
+2. git add .
+3. git commit -m "add new files"
+4. git push -u origin main
+
 For the SSH, I will need to 
 1. open up cmd prompt as Admin and generate ssh key by command *ssh-keygen -t rsa*.
 2. Enter passphrase
