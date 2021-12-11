@@ -18,7 +18,7 @@ To create a new file:
 
 For the SSH, I will need to 
 1. open up cmd prompt as Admin and generate ssh key by command 
-    ''' sh
+    '''sh
     ssh-keygen -t rsa
     '''
 
