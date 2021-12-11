@@ -18,9 +18,9 @@ To create a new file:
 
 For the SSH, I will need to 
 1. open up cmd prompt as Admin and generate ssh key by command 
-''' sh
-ssh-keygen -t rsa
-'''
+    ''' sh
+    ssh-keygen -t rsa
+    '''
 
 2. Enter passphrase
 3. Copy the ssh public key to github setting.
